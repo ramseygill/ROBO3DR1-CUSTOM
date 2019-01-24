@@ -1,7 +1,7 @@
 # ROBO3DR1-CUSTOM
 Custom Marlin firmare for a heavily modified ROBO 3D R1 3D printer.
 
-###
+### NOTES
 * Flashed to Arduino Mega 2560 (RAMPS) with Arduino IDE 1.0.6
 * RepRapDiscount Full Graphic Smart Controller requires specific U8glib library to be installed. This gave me some grief so I included it as a .zip file. https://github.com/olikraus/u8glib/wiki 
 
